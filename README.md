@@ -1,5 +1,6 @@
 # devops-netology_Markin
-1) aefead220 Update CHANGELOG.md
+1) commit aefead2207ef7e2aa5dc81a34aedf0cad4c32545
+ Update CHANGELOG.md
 
 2) commit aefead2207ef7e2aa5dc81a34aedf0cad4c32545
 Author: Alisdair McDiarmid <alisdair@users.noreply.github.com>
